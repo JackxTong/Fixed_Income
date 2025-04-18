@@ -1,0 +1,4 @@
+financepy
+pandas
+openpyxl
+tqdm
